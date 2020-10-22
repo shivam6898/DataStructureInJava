@@ -1,5 +1,6 @@
 package com.app.code;
 
+//In Bubble sort every time we get sorted element at last index
 public class BubbleSort {
 
 	public static void main(String[] args) {
